@@ -17,4 +17,4 @@ EcoVenture is an AI-powered personal safety app developed for the NASA Space App
 ## About the Team
 Team EcoVenture is a group of five motivated innovators. We are united by one mission: to make cities healthier and safer for people. Our team combines skills in leadership, design, data analysis, research, and storytelling. We love using technology and NASA Earth data to solve real problems like air pollution. By working together, we aim to turn complex satellite data into simple, useful tips that help people protect themselves and live healthier lives every day.
 
-<p align = "center"><img alt="team image" width=50%" src="https://i.ibb.co.com/Kp519zms/Eco-Venture-Team-Cover.jpg"></p>
+[url=https://ibb.co.com/cSymNXx8][img]https://i.ibb.co.com/nNwWD8R1/Eco-Venture-Team-Cover.jpg[/img][/url]
