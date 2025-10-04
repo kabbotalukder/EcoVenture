@@ -3,6 +3,8 @@
 ## About the App
 EcoVenture is an AI-powered personal safety app developed for the NASA Space Apps Challenge 2025 under the challenge “Data Pathways to Healthy Cities and Human Settlements.” Using NASA Earth observation datasets—particularly the Global High Resolution Daily Extreme Urban Heat Exposure (UHE-Daily, 1983–2016), it provides real-time insights on air quality, traffic intensity, and a City Health Index, along with a 7-Day AI-powered air forecast. More than just showing data, EcoVenture delivers personalized tips to help users reduce exposure, avoid health risks, and make safer choices. In the future, it will expand with water quality alerts, pollution reduction plans, and global health insights for high-risk regions, turning complex satellite data into actionable guidance that empowers people worldwide to live healthier, safer lives in polluted cities.
 
+<img width="1920" height="1080" alt="ui ss" src="https://github.com/user-attachments/assets/dfaafa50-38df-42e4-b749-1a62f4ca4d3d" />
+
 > This app was developed using Flutter
 
 > Figma: [https://www.figma.com/design/0aCvC9w6dCKG6u0X0Gs8Kp/EcoVenture_Nasa_Space_Apps_Challenge_2025](https://www.figma.com/design/0aCvC9w6dCKG6u0X0Gs8Kp/EcoVenture_Nasa_Space_Apps_Challenge_2025)
@@ -17,4 +19,4 @@ EcoVenture is an AI-powered personal safety app developed for the NASA Space App
 ## About the Team
 Team EcoVenture is a group of five motivated innovators. We are united by one mission: to make cities healthier and safer for people. Our team combines skills in leadership, design, data analysis, research, and storytelling. We love using technology and NASA Earth data to solve real problems like air pollution. By working together, we aim to turn complex satellite data into simple, useful tips that help people protect themselves and live healthier lives every day.
 
-<p align = "center"><img alt="team image" width=50%" src="https://i.ibb.co.com/nNwWD8R1/Eco-Venture-Team-Cover.jpg"></p>
+<img width="1920" height="1080" alt="EcoVenture - Team Cover 169" src="https://github.com/user-attachments/assets/818377ef-839b-4ceb-8a87-dece94bbf9f0" />
